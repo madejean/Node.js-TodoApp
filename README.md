@@ -1,2 +1,2 @@
 ## TodoApp-with-node
-#####uses express.js and ejs
+####uses express.js and ejs
